@@ -1,5 +1,4 @@
-# -Prolog--AgendaVisitasImoveis-
+# -Prolog--Property Visitor Schedule-
 
-Linguagem: Prolog
+Language: Prolog
 
-Resolução de trabalho de ALGAV 2015/2016 ISEP (ver enunciado).
