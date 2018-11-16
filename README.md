@@ -1,4 +1,4 @@
-# -Prolog--Property Visitor Schedule-
+# Property Visitor Scheduler #
 
 Language: Prolog
 
